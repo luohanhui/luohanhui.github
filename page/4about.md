@@ -46,7 +46,7 @@ type: page
 
 欢迎大家提一些对本站主题的建议，可以直接在下面留言或者新建一个 [Issue](https://github.com/luohanhui/luohanhui.github.io/issues)。
 
-### Update Log
+## Update Log
 
 *2017.2.28*
 
