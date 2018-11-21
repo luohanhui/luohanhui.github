@@ -7,7 +7,7 @@
 
 # Site settings
 title: Mr.prince
-brief-intro: Front-end Dev Engineer
+brief-intro: Welcome to luohanhui's blog
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://luohanhui.github.io" # the base hostname & protocol for your site
 
